@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-zlld6e.renruixue.com/sitemap.xml
